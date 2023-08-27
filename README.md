@@ -9,7 +9,7 @@
 
 <p><strong>In the About section, we provide an overview of the range of services we offer. These services encompass Frontend Web Design, the creation of fully dynamic websites seamlessly connected to databases, innovative and creative web design solutions, and user interface design tailored specifically for mobile applications.</strong></p>
 
-<p><strong></strong></p>
+<p><strong>The Team section is dedicated to introducing our highly skilled and dedicated team members. Detailed profiles highlight their individual strengths and skills, giving visitors an insight into the expertise that drives our company's success.</strong></p>
 
 <p><strong></strong></p>
 
