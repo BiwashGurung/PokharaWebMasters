@@ -5,7 +5,7 @@
 
 <p><strong>The website is thoughtfully designed with four primary sections, namely Home, About, Team, and Contact. It is crafted using HTML and TailWind CSS, ensuring a visually appealing and highly responsive user experience across various devices and screen sizes.</strong></p>
 
-<p><strong></strong></p>
+<p><strong>The Home section serves as a welcoming entry point for visitors. Here, clients have the option to log in to our website, explore our services, and even access our team's CVs through a convenient download button.</strong></p>
 
 <p><strong></strong></p>
 
