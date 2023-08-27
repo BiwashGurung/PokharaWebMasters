@@ -11,7 +11,7 @@
 
 <p><strong>The Team section is dedicated to introducing our highly skilled and dedicated team members. Detailed profiles highlight their individual strengths and skills, giving visitors an insight into the expertise that drives our company's success.</strong></p>
 
-<p><strong></strong></p>
+<p><strong>For those interested in reaching out to us, the Contact section offers a user-friendly feedback form located on the right side of the page. To help clients locate us easily, a map of Pokhara, our company's base, is prominently displayed on the left side of the section.</strong></p>
 
 <p><strong></strong></p>
 
