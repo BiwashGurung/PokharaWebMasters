@@ -7,7 +7,7 @@
 
 <p><strong>The Home section serves as a welcoming entry point for visitors. Here, clients have the option to log in to our website, explore our services, and even access our team's CVs through a convenient download button.</strong></p>
 
-<p><strong></strong></p>
+<p><strong>In the About section, we provide an overview of the range of services we offer. These services encompass Frontend Web Design, the creation of fully dynamic websites seamlessly connected to databases, innovative and creative web design solutions, and user interface design tailored specifically for mobile applications.</strong></p>
 
 <p><strong></strong></p>
 
